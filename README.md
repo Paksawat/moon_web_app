@@ -1,4 +1,5 @@
 # moon_web_app
+https://mfdproject-12381.web.app/
 
 1. semester project in my Web Development PBA. Criteria was a web applications made in vue, using web APIs. 
 This app is not maintained and due to the heavy use of different APIs, it has lost alot of it functions. 
@@ -16,4 +17,6 @@ This functions that was in place on launch:
  - Bases for a PWA
 
 Created Vue with Firebase and Firestore as backend.
+
+Other than develop the frontend, i also did the design og the app.
 
