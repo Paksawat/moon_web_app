@@ -1,5 +1,6 @@
 # moon_web_app
 https://mfdproject-12381.web.app/
+ * should be used on mobile size
 
 1. semester project in my Web Development PBA. Criteria was a web applications made in vue, using web APIs. 
 This app is not maintained and due to the heavy use of different APIs, it has lost alot of it functions. 
